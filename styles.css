@@ -1,0 +1,42 @@
+<style type="text/css">
+h1{
+  color: powderblue
+}
+#AnonsaList{color:pink;}
+</style>
+<style type="text/css">
+#div1{background-color: white}
+#div2{background color: black
+text-color: white}
+</style>
+<style>
+form{
+  padding:15px;
+  background-color: white;
+  border-style: solid;
+  border-color: powderblue;
+  font weight:900px;
+}
+input [type=button]:{
+  color:black;
+  padding: 5px;
+  border: solid;
+  background-color: powderblue;
+}
+input [type=text]: focus{
+  background-color: pink;
+  width 100%
+  transition:2s;
+}
+p {
+  border: 2px solid powderblue;
+}
+h1 {
+  border: 3px solid Pink;
+  text-size:200pt
+}
+
+ol {
+  border: 2px solid powderblue;
+}
+</style>
